@@ -1,5 +1,6 @@
         p {color:teal;}
-        h1 {color:gray;}
+        h1 {color:gray;
+                font-family:quicksand;}
         h3 {color:tan;}
         h4 {color:tan;}
 body{background-color:lightgreen;}
